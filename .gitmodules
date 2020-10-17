@@ -1,0 +1,3 @@
+[submodule "front-end-javascript"]
+	path = front-end-javascript
+	url = https://github.com/Kavelaa/front-end-javascript.git
